@@ -10,7 +10,7 @@ can be in up to 5 Groups at a time. Each Group has no actual chat history. When 
 a data packet to display.
 
 ## Is it private?
-Yes, Postit is private. The server collects no personal data or telemetry, not even usage statistics. Additionally, all data. such as your
+Yes, Postit is private. The server collects no personal data or telemetry, not even usage statistics. Additionally, all data, such as your
 username and your joined Groups, are saved locally. The servers do not have access to that data.
 
 ## How can I use it?
